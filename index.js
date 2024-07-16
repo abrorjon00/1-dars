@@ -104,8 +104,8 @@
 
 // 1-misol
 
-// let num = +prompt("Sonni Kiriting");
-// let num2 = Math.floor(num / 2);
-// let result = num % 2;
-// console.log("Butun qismi:", num2);
-// console.log("Qoldiq:", result)
+let num = +prompt("Sonni Kiriting");
+let num2 = Math.floor(num / 2);
+let result = num % 2;
+console.log("Butun qismi:", num2);
+console.log("Qoldiq:", result)
