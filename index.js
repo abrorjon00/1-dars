@@ -103,9 +103,47 @@
 // Asosiy masalalar
 
 // 1-misol
+// let num = +prompt("Sonni kiriting..");
+// let result = Math.trunc(num / 2);
+// console.log(result);
 
-let num = +prompt("Sonni Kiriting");
-let num2 = Math.floor(num / 2);
-let result = num % 2;
-console.log("Butun qismi:", num2);
-console.log("Qoldiq:", result)
+// 4-masala
+// let num1 = +prompt("1-Sonni kiriting..");
+// let num2 = +prompt("2-Sonni kiriting..");
+// let num3 = +prompt("3-Sonni kiriting..");
+// let sum = num1  * num1 + num2 * num2 + num3 * num3;
+// console.log(sum);
+
+// 5-masala
+
+// let a = +prompt("1-Sonni kiriting..");
+// let b = +prompt("2-Sonni kiriting..");
+
+// let res = a ** b;
+// console.log(res);
+
+// 6-masala
+
+// let num = +prompt("1-Sonni kiriting..");
+// let res = Math.trunc(Math.sqrt(num1))
+// console.log(res)
+
+// 7-masala
+
+// let a = +prompt("1-Sonni kiriting..");
+// let b = +prompt("2-Sonni kiriting..");
+
+// console.log(a * b);
+// console.log(a * b);
+// console.log(a * b);
+// console.log(a * b);
+// console.log(a * b);
+
+// 8-masala
+
+// let a = +prompt("1-Sonni kiriting..");
+// let res = a * 10 - 7;
+// console.log(res)
+
+// 9-masala
+
